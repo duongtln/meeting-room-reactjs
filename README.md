@@ -1,3 +1,3 @@
 # meeting-room
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/meeting-room)
+[Demo ⚡️](https://meeting-room-react-lntduong.stackblitz.io)
